@@ -8,7 +8,6 @@ Returns an integer
 If n is impossible to achieve, return 0
 """
 
-
 def minOperations(n):
     if n <= 1:
         return 0
